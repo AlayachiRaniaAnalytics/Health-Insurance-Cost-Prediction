@@ -13,7 +13,7 @@ The application integrates multiple models:
 
 Additionally, this project is supported by a **research paper** that explores predictive modeling of healthcare costs, discussing the impact of demographic and lifestyle factors on medical charges.
 
-[research paper (.pdf)](research paper.pdf)
+[research paper (.pdf)](researchpaper.pdf)
 
 ---
 
