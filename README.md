@@ -1,2 +1,31 @@
-# Health-Insurance-Cost-Prediction
-This project is a Flask-based web app that predicts health insurance costs using Machine Learning models (Random Forest, Linear Regression, Hybrid). Users input factors like age, BMI, smoking, and region to get real-time cost estimates. It’s supported by a research paper analyzing healthcare cost prediction.
+# 🏥 Health Insurance Cost Prediction
+
+![Dashboard Interface](MidicalIntrface.png)
+
+## 📖 Project Overview
+This project is a **Health Insurance Cost Prediction Web App** built with **Flask** and powered by **Machine Learning models**.  
+It allows users to input personal and lifestyle data such as **age, BMI, smoking habits, region, and number of children** to predict expected medical expenses.
+
+The application integrates multiple models:
+- 🌳 **Random Forest Regressor**
+- 📈 **Linear Regression**
+- ⚡ **Hybrid Model** (average of Random Forest & Linear Regression)
+
+Additionally, this project is supported by a **research paper** that explores predictive modeling of healthcare costs, discussing the impact of demographic and lifestyle factors on medical charges.
+- [research paper (.pdf)](research paper.pdf)
+---
+
+## ⚙️ Features
+- User-friendly **web interface** built with Flask.
+- Choose between **Random Forest, Linear Regression, or Hybrid Model**.
+- Real-time prediction of **medical insurance costs**.
+- Encodes categorical features (sex, smoker, region) automatically.
+- Research-backed methodology and evaluation.
+
+---
+
+## 👩‍💻 Author  
+
+**Rania Alayachi**  
+📧 alayachi.rania23@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rania-al-ayachi/)  
